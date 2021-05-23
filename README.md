@@ -24,11 +24,11 @@
 
 - Template initialization
 
-  [Note1](https://sway.office.com/sHeWvdzA8oSOrExg?ref=Link)
+  [Note](https://sway.office.com/sHeWvdzA8oSOrExg?ref=Link)
 
 - Template matching
 
-  [Note1](https://github.com/BrainOdyssey2050/Pipline/blob/main/KiloSort_MainOptimization.png)
+  [Note](https://github.com/BrainOdyssey2050/Pipline/blob/main/KiloSort_MainOptimization.png)
 
 - Performance evaluation
 
