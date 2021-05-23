@@ -14,25 +14,28 @@
 
 
 ## Kilosort1
+  Note: the preview is failed due to the large size of the notes. Please download them directly if needed.
 
-- 1. Overview
+- Overview
 
-- 2. Simulated data generation
+- Simulated data generation
 
   [Note](https://github.com/BrainOdyssey2050/Pipline/blob/main/make_eMouseData.m.pdf)  |  [Video tutorial](https://www.bilibili.com/video/BV19b4y1f7hw/)
 
-- 3. Template initialization
+- Template initialization
 
   [Note1](https://sway.office.com/sHeWvdzA8oSOrExg?ref=Link)
 
-- 4. Template matching
+- Template matching
 
-  [Note1]()  |  [Note2]()  |  [Note3]() 
+  [Note1](https://github.com/BrainOdyssey2050/Pipline/blob/main/KiloSort_MainOptimization.png)
 
-- 5. Performance evaluation
+- Performance evaluation
 
   [Note](https://github.com/BrainOdyssey2050/Pipline/blob/main/Benchmark_simulation.m.pdf)  |  [Video tutorial](https://www.bilibili.com/video/BV1Mq4y1E758)
 
-- 6. Phy
+- Phy
 
-- 7. Is Kilosort reliable?
+- Is Kilosort reliable?
+
+## Tetrode-based signal processing
