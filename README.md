@@ -39,7 +39,8 @@
 - Is Kilosort reliable?
 
 ## Tetrode-based signal processing
-  [Framework](https://github.com/BrainOdyssey2050/Pipline/blob/main/Neuralynx%20hardware%20and%20software%20processing.png) 
+  - [Framework](https://github.com/BrainOdyssey2050/Pipline/blob/main/Neuralynx%20hardware%20and%20software%20processing.png) 
+
   ![](https://github.com/BrainOdyssey2050/Pipline/blob/main/neuralynx%20image%20show.png)
 
 ## Neural Decoding
