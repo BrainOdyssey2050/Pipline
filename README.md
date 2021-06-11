@@ -39,9 +39,10 @@
 - Is Kilosort reliable?
 
 ## Tetrode-based signal processing
+  [Framework](https://github.com/BrainOdyssey2050/Pipline/blob/main/Neuralynx%20hardware%20and%20software%20processing.png) 
+  ![](https://github.com/BrainOdyssey2050/Pipline/blob/main/neuralynx%20image%20show.png)
 
 ## Neural Decoding
-
-### Matrix Decomposition
+### 1. Matrix Decomposition
 
 - [Note](https://github.com/BrainOdyssey2050/Pipline/blob/main/Matrix%20decomposition%20.pdf)  |  [Video tutorial](https://www.bilibili.com/video/BV1ov411V7S2/)
